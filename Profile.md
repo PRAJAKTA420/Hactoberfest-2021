@@ -9,5 +9,6 @@
 | Sudheer KUmar    | [Sudheer Kumar] | consultant,business work| skilled, entrepreneurship|
 | Uttam Gupta | [Uttam Gupta] | Leadership, novel | content writer, html, web designing|
 | Seungmin Sa      | [harang](https://github.com/saseungmin)| Front-End              | Age 26, Republic of Korea |
-| Ajay Karki     |        [AjayKarki](https://github.com/AjayKarki/)        | Chess, Programming | Software Engineer|
+| Ajay Karki       |        [AjayKarki](https://github.com/AjayKarki/)        | Chess, Programming | Software Engineer|
 | Mudassir Raza     |        [Mudassir Raza](https://github.com/Mudassirraza912/)        | Gym, Programming | MERN Stack Developer|
+|Prajakta Kank     |    [prajakta kank](https://github.com/PRAJAKTA420) |  web development,programming| I am a beginner level coder|
